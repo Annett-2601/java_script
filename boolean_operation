@@ -1,4 +1,4 @@
-https://jsbin.com/muzumuhuge/1/edit?js,console
+https://jsbin.com/jafutusiro/1/edit?js,console
 
 //Solve a task with logical operators in such a way as on example:
 
@@ -43,6 +43,7 @@ let b = 7;
 
 let numbers = (a > b) && b !== 0 || a >= 0;
 console.log('task 2 case 1: ' + numbers);
+console.log('task 2 case 1:'+ ((a > b) && b !== 0 || a >= 0));
 
 //  case 2: (Number a is a positive number or number b is a positive number) or b is not equal to 0 and a is equal to 7; => the result is true
 
